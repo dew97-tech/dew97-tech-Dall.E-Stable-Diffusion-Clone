@@ -1,9 +1,11 @@
 I have created a MERN application of Dall.E or Stable Diffusion clone. Now write me “Markdown documentation” description for my project so that i can showcase my work on GitHub
 
-![Image Generation App](https://i.ibb.co/p0f27C2/Thumbnail-9.png)
+
 
 MERN Dall.E/Stable Diffusion Clone
 ==================================
+
+![Image Generation App](https://i.ibb.co/p0f27C2/Thumbnail-9.png)
 
 Introduction
 ------------
