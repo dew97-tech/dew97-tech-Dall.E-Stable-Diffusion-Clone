@@ -1,7 +1,3 @@
-I have created a MERN application of Dall.E or Stable Diffusion clone. Now write me “Markdown documentation” description for my project so that i can showcase my work on GitHub
-
-
-
 MERN Dall.E/Stable Diffusion Clone
 ==================================
 
